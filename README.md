@@ -1,3 +1,4 @@
 # illum-matrix
-matrix simulation for parallel direction of reality
-##this is a heading
+## this is a heading
+### we are narcos
+
